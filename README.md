@@ -22,7 +22,15 @@ This project is for eductional purposes only
 https://youtu.be/Yc4ya4xy_Wo
 
 
+## :computer: Instalation
+
+to use the script you need to edit the email line and the password line
+and the email reciver line the script won't work if you won't do that.In the script is tutorial how to do that
+
+
 ![MIT License](https://img.shields.io/badge/Level-Begginer-success)
+
+
 
 
 
